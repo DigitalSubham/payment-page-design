@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "MyFont";
+  src: url("/fonts/Fontspring-DEMO-aftika-black.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
